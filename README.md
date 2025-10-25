@@ -36,6 +36,6 @@ Cada projeto representa um desafio real ou simulado, onde aplico conceitos de **
 
 
 ## 📬 Contato
-**Email** railsonsilva09vd@gmail.com<br>
-**LinkedIn**<br>
-**GitHub**<br> 
+**Email:** railsonsilva09vd@gmail.com<br>
+**LinkedIn:** www.linkedin.com/in/railson-silva-we09<br>
+**GitHub:**<br> 
